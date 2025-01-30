@@ -1,7 +1,7 @@
 export const socialsData = {
-    github: 'https://github.com/',
-    facebook: 'https://www.facebook.com/',
+    github: 'https://github.com/Ekam-Ekambaram/',
     linkedIn: 'https://www.linkedin.com/in/ekambaram-917b44313/',
+    /*
     instagram: 'https://www.instagram.com/',
     codepen: 'https://codepen.io/',
     twitter: 'https://twitter.com/',
@@ -10,5 +10,7 @@ export const socialsData = {
     medium: 'https://medium.com/@',
     stackOverflow: 'https://stackoverflow.com/users/',
     gitlab: 'https://gitlab.com/',
+    facebook: 'https://www.facebook.com/',
     youtube: 'https://youtube.com/'
+    */
 }
