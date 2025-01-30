@@ -14,7 +14,7 @@ export const projectsData = [
         projectName: 'Nxt Trendz ( ECommerce Clone - Amazon, Flipkart)',
         projectDesc: 'Implemented Nxt Trendz application which is a clone for ECommerce applications like Amazon, Flipkart where users can login and can see list of products with search, filters, sort by, etc.',
         tags: ['React JS', 'JS', 'CSS', 'Bootstrap', 'Routing', 'REST API Calls', 'Local Storage', 'JWT Token', 'Authorization', 'Authentication'],
-    //    code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        //    code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
         demo: 'ekamNxtTrenz.ccbp.tech',
         image: one
     },
@@ -23,15 +23,15 @@ export const projectsData = [
         projectName: 'One Solutions (Job Notifications)',
         projectDesc: 'Developed a full-stack web application for posting and managing job notifications, enabling job seekers to search and apply for jobs.',
         tags: [' HTML', 'CSS', 'Bootstrap, Reactjs, Nodejs'],
-      //  code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        code: 'https://github.com/One-Solutions-2024/frontend.git',
         demo: 'https://onesolutions.onrender.com/',
         image: one_solutions_logo
-    },{
+    }, {
         id: 3,
         projectName: 'One Solutions (Admin Panel)',
         projectDesc: 'Developed a secure admin panel for managing job notifications, with authentication and authorization for registered admins.• Implemented login and registration using POST HTTP API calls.',
         tags: ['Html5, Css3, React JS', 'JS', 'CSS', 'Bootstrap', 'Routing', 'REST API Calls', 'Local Storage', 'JWT Token', 'Authorization', 'Authentication'],
-      //  code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        code: 'https://github.com/One-Solutions-2024/admin.git',
         demo: 'https://onesolutions-admin.onrender.com/login/',
         image: one_solutions_logo
     },
@@ -40,7 +40,7 @@ export const projectsData = [
         projectName: 'Tourism Website',
         projectDesc: 'Devised an immersive web experience for users to discover top travel destinations through images, videos, and descriptions.',
         tags: [' HTML', 'CSS', 'Bootstrap'],
-      //  code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        //  code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
         demo: 'ekamtourism.ccbp.tech',
         image: two
     },
@@ -49,7 +49,7 @@ export const projectsData = [
         projectName: 'Weather App',
         projectDesc: 'Weather forecast systems and applications predict weather conditions based on multiple parameters.',
         tags: ['Html', 'CSS', 'JS', 'Reactjs'],
-     //   code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        //   code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
         demo: 'https://weatherekam.ccbp.tech/',
         image: three
     },
@@ -58,7 +58,7 @@ export const projectsData = [
         projectName: 'Food Munch',
         projectDesc: 'A fully responsive website that offers a comprehensive list of food items and detailed information about each item.',
         tags: ['HTML', 'CSS', 'Bootstrap'],
-     //   code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        //   code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
         demo: 'ekamfoodmunch.ccbp.tech',
         image: four
     },
@@ -67,16 +67,16 @@ export const projectsData = [
         projectName: 'E-Commerce App',
         projectDesc: 'A Simple E-commerce application',
         tags: ['React JS', 'JS', 'CSS', 'Bootstrap', 'Routing', 'REST API Calls', 'Local Storage', 'JWT Token', 'Authorization', 'Authentication'],
-      //  code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-      demo: 'ekamNxtTrenz.ccbp.tech',
-      image: five
+        //  code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        demo: 'ekamNxtTrenz.ccbp.tech',
+        image: five
     },
     {
         id: 8,
         projectName: 'Wikipedia Search Application ',
         projectDesc: 'A fully responsive website that offers a comprehensive list of food items and detailed information about each item.',
         tags: [' HTML', 'CSS', 'Bootstrap'],
-      //  code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        //  code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
         demo: 'ekamfoodmunch.ccbp.tech',
         image: six
     },
@@ -85,7 +85,7 @@ export const projectsData = [
         projectName: 'Tourism Website',
         projectDesc: 'Devised an immersive web experience for users to discover top travel destinations through images, videos, and descriptions.',
         tags: ['HTML', 'CSS', 'Bootstrap'],
-      //  code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        //  code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
         demo: 'ekamtourism.ccbp.tech',
         image: seven
     },
@@ -94,7 +94,7 @@ export const projectsData = [
         projectName: 'Insta Share (Instagram Clone)',
         projectDesc: ' Implemented responsive Streaming Application like Instagram Clone where users can log in and see a list of stories and posts, user can also search posts with post caption, user can be able to like and dislike the post and also view the user specific posts.',
         tags: [' HTML', 'CSS', 'JavaScript', 'React JS', 'Bootstrap', 'React Slick', 'Figma', 'client storage'],
-     //   code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        //   code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
         demo: 'https://ekaminsta.ccbp.tech/login',
         image: eight
     },
